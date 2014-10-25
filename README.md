@@ -14,7 +14,7 @@ November 27 2014, Computer lab G-05, building 4 (in front of the library), Monas
 
 __setup 30 min__
 
-9:00-12:00    Programming in Python   (Clare Slogget)
+9:00-12:00    Programming in Python (include 10-15 min break(s))   (Clare Slogget)
 
 __lunch break 1 hour__
 
