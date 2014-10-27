@@ -14,13 +14,13 @@ November 27 2014, Computer lab G-05, building 4 (in front of the library), Monas
 
 _8:30-9:00_ __setup__
 
-_9:00-12:00_ Programming in Python (include 10-15 min break(s)) (_Clare Slogget_)
+_9:00-12:00_ Programming in Python (include 10-15 min break(s)) (_Clare Sloggett_)
 
 _12:00-13:00_ __lunch break__
 
 _13:00-13:45_ Matplotlib (_Andrew Lonsdale_)
 
-_13:45-14:30_ Numpy (_Juan Nunes_)
+_13:45-14:30_ Numpy (_Juan Nunez_)
 
 _14:30-14:15_ __break__
 
